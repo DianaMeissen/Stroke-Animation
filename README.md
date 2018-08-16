@@ -1,1 +1,1 @@
-(Stroke-Animation)[https://dianameissen.github.io/Stroke-Animation/]
+[Try](https://dianameissen.github.io/Stroke-Animation/)
