@@ -26,7 +26,7 @@ body {
 path {
 	stroke: #fff;
 	fill: #fff;
-	stroke-dasharray: 1800;
+	stroke-dasharray: 500;
 	opacity: 10;
 	animation: animate 3s cubic-bezier(0,0.23,1,.1);
 }
@@ -36,13 +36,13 @@ path {
 	0% {
 		opacity: 0;
 		fill: none;
-		stroke-dashoffset: 1800;
+		stroke-dashoffset: 500;
 	}
 
 	30% {
 		opacity: 10;
 		fill: none;
-		stroke-dashoffset: 1800;
+		stroke-dashoffset: 500;
 	}
 
 	90% {
