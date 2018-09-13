@@ -51,12 +51,12 @@ path {
 	}
 
 	90% {
-		fill: rgba(255,255,255,0);
+		fill: greenyellow;
 	}
 
 	100% {
 		opacity: 10;
-		fill: rgba(255,255,255,1);
+		fill: greenyellow;
 		stroke-dashoffset: 1000;
 	}
 
