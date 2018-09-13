@@ -26,6 +26,7 @@ body {
 path {
 	stroke: #fff;
 	fill: #fff;
+	stroke-width: 2;
 	stroke-dasharray: 1500;
 	opacity: 10;
 	animation: animate 3s cubic-bezier(0,0.23,1,.1);
