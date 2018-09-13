@@ -32,6 +32,10 @@ path {
 	animation: animate 3s cubic-bezier(0,0.23,1,.1);
 }
 
+.st1 {
+	stroke-width: 2;
+}
+
 @keyframes animate {
 
 	0% {
